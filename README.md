@@ -30,7 +30,7 @@ About bytes ' life
 
 * Différence entre `bytes` et `bits` : 
   * `Sphère francophone : 1 octet = 8 bits`
-  * `Sphère anglophone : 1 octet = 8 bits`
+  * `Sphère anglophone : 1 octet = 8 bits =  one **byte**`
 
  
 Voilà, je crois qu'on a là les éléments principaux, pour lire correctement une petite fiche aaht disque dur, ou pour faire une évaluation de coût stockage.
